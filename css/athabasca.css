@@ -1,0 +1,73 @@
+.big-banner{
+    background-image: url("../images/slider4.jpg");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+.big-banner p:last-child{
+    background-color: rgb(0, 88, 160);
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+    width: 55%;
+    text-align: justify;
+    margin: 20px auto;
+    padding: 10px 140px;
+}
+.big-banner {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+}
+.lifetm, .lft{
+    padding:3px 12px;
+}
+.big-banner p{
+    text-align: center;
+    margin-bottom: 2px;
+}
+.txt{
+    text-align: center;
+}
+.fw{
+font-weight: bold;
+}
+button{
+    border: 0;
+}
+.dot{
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 20px 2px 5px 2px;
+    border-radius: 50%;
+    color: #fff;
+}
+.txt-blue{
+    color: rgb(0, 88, 160);
+}
+.bg-org{
+    background-color: orangered;
+}
+.bg-blue{
+    background-color: slateblue;
+}
+.bg-brown{
+    background-color: brown;
+}
+.col-org{
+    color: orangered;
+}
+.wht{
+    color: #fff;
+}
+.hg{
+    height: 200px;
+}
+.bdr{
+    border-right: 1px solid #ccc;
+}
+.btn{
+    background-color: slateblue;
+    color: #fff;
+    font-size: 16px;
+}
